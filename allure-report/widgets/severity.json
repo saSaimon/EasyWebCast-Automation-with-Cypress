@@ -1,0 +1,1 @@
+[{"uid":"a59e2ba585698810","name":"My First Test Case","time":{"start":1669037890623,"stop":1669037920378,"duration":29755},"status":"passed","severity":"normal"},{"uid":"303eaa74a75b6084","name":"login","time":{"start":1669037603784,"stop":1669037662764,"duration":58980},"status":"failed","severity":"normal"}]
